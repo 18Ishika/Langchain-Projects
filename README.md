@@ -1,5 +1,43 @@
-THIS REPOSITORY CONTAINS PROJECTS REGARDING LANGCHAIN 
+🧠 LangChain Projects with Gemini 1.5
+This repository contains two LangChain-based projects using Google’s Generative AI (Gemini 1.5 Flash) and Streamlit.
 
-1. First project is a simple chatbot that I developed using google's api key and gemini 1.5 flash model and using langchain functions and streamlit interface
-2. Second project is a little advanced where I utilised concepts of RAG(Retrieval Augmented Generation). I build a streamlit interface where user could upload their pdf to query that and get results based on that
-   
+🚀 Projects
+1. Simple Chatbot
+A basic educational chatbot built with:
+
+LangChain + Gemini 1.5 Flash
+
+Streamlit Interface
+
+Answers general queries with a student-friendly tone.
+
+2. RAG-based PDF Chatbot
+A more advanced app using Retrieval-Augmented Generation:
+
+Upload and query your own PDFs
+
+Uses LangChain’s document loaders, text splitters, vector stores (Chroma), and Gemini for responses.
+
+🧠 LangChain Projects with Gemini 1.5
+This repository contains two LangChain-based projects using Google’s Generative AI (Gemini 1.5 Flash) and Streamlit.
+
+🚀 Projects
+1. Simple Chatbot
+A basic educational chatbot built with:
+
+LangChain + Gemini 1.5 Flash
+
+Streamlit Interface
+
+Answers general queries with a student-friendly tone.
+
+2. RAG-based PDF Chatbot
+A more advanced app using Retrieval-Augmented Generation:
+
+Upload and query your own PDFs
+
+Uses LangChain’s document loaders, text splitters, vector stores (Chroma), and Gemini for responses.
+
+![Screenshot 2025-05-24 164301](https://github.com/user-attachments/assets/4f4ad369-a428-4c3c-a91b-7f2875102d8a)
+
+
